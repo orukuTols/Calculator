@@ -184,7 +184,7 @@ buttons.forEach((value) => {
                    currentNum = '';
                    Op = '';}
                    else {
-                    screen.value = "Back to sender!"
+                    screen.value = "Back to sender"
                    }
                 break;
 
